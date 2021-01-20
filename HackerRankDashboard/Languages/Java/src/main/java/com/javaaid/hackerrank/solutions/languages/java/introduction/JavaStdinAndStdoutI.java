@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author Kanahaiya Gupta
  *
  */
+// the challange has changed & your code no longer reflects the correct solution
 public class JavaStdinAndStdoutI {
 
 	public static void main(String[] args) {
